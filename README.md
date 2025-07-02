@@ -53,7 +53,7 @@ cd iris-classifier
 ```
 ### 2. Install Dependencies
 ``` bash
-pip install torch pandas scikit-learn matplotlib seaborn
+pip install torch pandas numpy scikit-learn matplotlib
 ```
 
 ### 3.How to Run
