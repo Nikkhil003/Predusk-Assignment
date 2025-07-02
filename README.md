@@ -50,23 +50,3 @@ We use the **Iris dataset**:
 ```bash
 git clone https://github.com/your-username/iris-classifier.git
 cd iris-classifier
-✅ 2. Install Dependencies
-You can use pip or conda:
-
-bash
-Copy
-Edit
-pip install torch pandas scikit-learn matplotlib seaborn
-🚀 How to Run
-If you are using a .py script:
-
-bash
-Copy
-Edit
-python iris_classifier.py
-If you're using a Jupyter notebook:
-
-bash
-Copy
-Edit
-jupyter notebook iris_classifier.ipynb
