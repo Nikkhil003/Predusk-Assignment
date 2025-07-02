@@ -45,8 +45,23 @@ We use the **Iris dataset**:
 
 ## 🛠️ Setup & Installation
 
-### ✅ 1. Clone or Download the Repository
+### 1. Clone or Download the Repository
 
 ```bash
 git clone https://github.com/your-username/iris-classifier.git
 cd iris-classifier
+```
+### 2. Install Dependencies
+``` bash
+pip install torch pandas scikit-learn matplotlib seaborn
+```
+
+### 3.How to Run
+```bash
+python iris_classifier.py
+```
+If you're using a Jupyter notebook:
+```bash
+jupyter notebook iris_classifier.ipynb
+```
+
