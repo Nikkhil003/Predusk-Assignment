@@ -1,4 +1,4 @@
-Iris Classification - Neural Network from Scratch in PyTorch
+# Iris Classification - Neural Network from Scratch in PyTorch
 
 This project demonstrates how to build and train a **two-layer neural network from scratch using PyTorch for classifying iris flowers based on sepal and petal measurements.
 
